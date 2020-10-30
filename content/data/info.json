@@ -1,6 +1,6 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>This site serves as a reference point for new concepts learned within the world of web development. Authoring these posts helps me to consolidate, organise and retain the knowledge that I accumulate in the course of my work and study.</p><p>Follow my progress on <a href=\"https://github.com/Stasiulek\" title=\"GitHub\">GitHub</a>.</p><p><em>I am a developer at </em><a href=\"https://www.bmj.com/\" title=\"BMJ\"><em>BMJ,</em></a><em> London UK </em>🇬🇧<em>.. I studied Architecture at the University of Bath and worked in the field for four years before deciding to switch careers to software development. I earned a Google-sponsored scholarship on Udacity’s Front End Development Nanodegree programme which introduced me to programming.</em></p>",
+  "cta": "<p></p>",
   "contact": {
     "email": "info@forestry.io",
     "twitter_handle": "forestryio",
