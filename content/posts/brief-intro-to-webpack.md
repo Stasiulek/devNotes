@@ -7,4 +7,4 @@ author: Robert Thoreau
 ---
 ## What is it?
 
-Webpack is a module bundler. It combines all of the modules in an application into one or more bundle(s) that a \`index.html\` file can reference.
+Webpack is a module bundler. It combines all of the modules in an application into one or more bundle(s) that an `index.html` file can reference.
